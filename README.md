@@ -23,7 +23,7 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Cuối tuần này đi uống nước nhé.',
     btnAccept: 'Okiiiii lun <3',
-   
+    messLink: 'https://www.facebook.com/messages/t/100011752291362. VD: https://m.me/nam.nodemy
 }
 ```
 
